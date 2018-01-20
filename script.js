@@ -27,7 +27,7 @@ var t0=0, t1=0;
  	}, Math.random()*2000)
 
 
- //shows timing of the click
+ //shows timing after click
  	function timing(){
  		t1 = performance.now();
  		//document.getElementById("main").style.display="none";
